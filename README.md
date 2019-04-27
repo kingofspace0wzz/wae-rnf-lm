@@ -61,7 +61,7 @@ $ python main.py --dist normal --kla --center --flow --mmd --t 0.8 --mmd_w 10 --
 * [Hyperspherical VAE, Tim R. Davidson](https://arxiv.org/abs/1804.00891)
 * [Dirichlet VAE for Text Modeling, Xiao](https://arxiv.org/abs/1811.00135)
 * [Dilated Convolutional VAE, Yang](https://arxiv.org/abs/1702.08139)
-
+* [Semi Supervised Pytorch](https://github.com/wohlert/semi-supervised-pytorch)
 <!-- ## Reference
 
 '''
