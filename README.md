@@ -58,6 +58,7 @@ $ python main.py --dist normal --kla --center --flow --mmd --t 0.8 --mmd_w 10 --
 ### Acknowledgement
 * [Sentence VAE, Bowman](https://arxiv.org/abs/1511.06349)
 * [von-Mises Fisher VAE, Xu](https://arxiv.org/abs/1808.10805)
+* [Hyperspherical VAE, Tim R. Davidson](https://arxiv.org/abs/1804.00891)
 * [Dirichlet VAE for Text Modeling, Xiao](https://arxiv.org/abs/1811.00135)
 * [Dilated Convolutional VAE, Yang](https://arxiv.org/abs/1702.08139)
 
